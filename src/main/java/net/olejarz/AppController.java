@@ -2,12 +2,9 @@ package net.olejarz;
 
 
 import org.springframework.amqp.core.Message;
-import org.springframework.amqp.rabbit.connection.ConnectionFactory;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-
-import java.util.concurrent.TimeUnit;
 
 /**
  * Created by purplefan on 04.03.17.
