@@ -1,4 +1,4 @@
-# Some playgroud for Spring Boot and RabbitMQ
+# Some playground for Spring Boot and RabbitMQ
 
 ### Prerequisites
 
